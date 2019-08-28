@@ -1,3 +1,7 @@
+# Learning the world of GitHub
+Hello Humans
+This is Musad and this is my first Edit in the GitHub world.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
